@@ -3,7 +3,7 @@
  *
  * [1] Two Sum
  */
-package main
+package problems
 
 // @lc code=start
 func twoSum(nums []int, target int) []int {
